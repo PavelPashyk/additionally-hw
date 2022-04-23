@@ -6,6 +6,8 @@ git checkout ivan-ivanov Переход в нужную ветку
 git add "имя" или просто git add . Внесение изменения только выбранного файла или всего
 git commit -m "init(hw-1)" Комментарий к сохранению 
 git push origin имя  ветки отправим изменения на **github** 
+git pull origin имя  ветки с которой заберем изменения на **github** 
+
 
 создание с нуля + инициализация
 echo "# additionally-hw" >> README.md
